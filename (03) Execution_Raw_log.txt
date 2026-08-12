@@ -1,0 +1,53 @@
+==================================================
+Make Automation Scenario Execution Raw Log
+Execution Timestamp: 2026-08-12 13:24:05 (KST)
+Scenario Name: RSS, OpenAI(ChatGPT, Sora, Whisper) 통합
+Filter Status: Keyword Filter Blocked (차단 경로 동작 확인)
+==================================================
+
+RSS - RSS 피드 항목 보기2+0.1초
+모듈이 초기화되었습니다.
+
+OpenAI(ChatGPT, Sora, Whisper) - 응답 생성13
+모듈이 초기화되었습니다.
+
+Slack - 메시지 보내기17
+모듈이 초기화되었습니다.
+
+구글 시트 - 행 추가18
+모듈이 초기화되었습니다.
+
+시나리오가 초기화되었습니다.
+
+1차 사이클이 시작되었습니다.
+
+RSS - RSS 피드 항목 보기2
+작전이 시작되었다.
+
+RSS - RSS 피드 항목 보기2+1.7초
+해당 작업에 1 크레딧이 사용되었습니다.
+
+OpenAI(ChatGPT, Sora, Whisper) - 응답 생성13
+해당 묶음은 필터를 통과하지 못했습니다.
+
+RSS - RSS 피드 항목 보기2
+확정 단계가 시작되었습니다.
+
+RSS - RSS 피드 항목 보기2
+확정 단계가 완료되었습니다.
+
+1차 주기가 완료되었습니다.
+
+RSS - RSS 피드 항목 보기2
+해당 모듈이 최종 확정되었습니다.
+
+OpenAI(ChatGPT, Sora, Whisper) - 응답 생성13
+해당 모듈이 최종 확정되었습니다.
+
+Slack - 메시지 보내기17
+해당 모듈이 최종 확정되었습니다.
+
+구글 시트 - 행 추가18
+해당 모듈이 최종 확정되었습니다.
+
+시나리오가 확정되었습니다.
